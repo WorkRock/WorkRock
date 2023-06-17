@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://steamcommunity.com/id/Steam_K_Irada/" target="_blank"><img src="https://img.shields.io/badge/Steam-00000?logo-Steam-black?logo=Steam/></a>
+<a href="https://steamcommunity.com/id/Steam_K_Irada/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white">
 
 <!--
 **WorkRock/WorkRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
