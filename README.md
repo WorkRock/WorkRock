@@ -1,8 +1,7 @@
 <h3 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeJiHun&fontSize=90" /></h3>
 
-<h3 align="center"></h3>
-<p align="center"><a href="https://steamcommunity.com/id/Steam_K_Irada/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"></p>
 
+ &nbsp;
  &nbsp;
  &nbsp;
  &nbsp;
@@ -19,6 +18,15 @@
  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 
+&nbsp;
+&nbsp;
+&nbsp;
+ 
+<h3 align="center">✨My Steam Profile✨</h3>
+<p align="center"><a href="https://steamcommunity.com/id/Steam_K_Irada/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"></p>
+ 
+ 
+<h3 align="center">️🧑Portfolio️🧑</h3>
 
 
 <!--
