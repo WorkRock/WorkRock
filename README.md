@@ -1,8 +1,15 @@
 <h3 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeJiHun&fontSize=90" /></h3>
 
-<a href="https://steamcommunity.com/id/Steam_K_Irada/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white">
+<h3 align="center"></h3>
+<p align="center"><a href="https://steamcommunity.com/id/Steam_K_Irada/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"></p>
 
- 
+<h3 align="center">⚒️Tech Stack⚒️</h3>
+<p align="center">
+ <img src = "https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&logoColor=A8B9CC">
+</p>
+
+
+
 <!--
 **WorkRock/WorkRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
