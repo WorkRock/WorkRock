@@ -26,7 +26,7 @@
 &nbsp;
 
 <h3 align="center">️🧑Portfolio️🧑</h3>
-<p align="center"><a href="https://www.notion.so/Portfolio-4aea2f840d96430ba36e3806d65c93b8"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></p>
+<p align="center"><a href="https://youthful-lupin-1c9.notion.site/Portfolio-4aea2f840d96430ba36e3806d65c93b8"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></p>
  
 &nbsp;
 &nbsp;
